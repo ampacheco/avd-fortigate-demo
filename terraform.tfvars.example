@@ -1,0 +1,8 @@
+rg_name         = ""
+# 
+# Subscription Data 
+# 
+subscription_id = ""
+client_id       = ""
+client_secret   = ""
+tenant_id       = ""
